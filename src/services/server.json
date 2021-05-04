@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Filipe",
+      "password": 12345,
+      "email": "gnr_filipe@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 2,
+      "name": "José",
+      "password": 54321,
+      "email": "josesilva@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "name": "Kiosqui",
+      "password": 12345,
+      "email": "Kiosqui@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 2,
+      "name": "Bar solar",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 3,
+      "name": "Pedi",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 4,
+      "name": "Bar Souza",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 5,
+      "name": "Koskin",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 6,
+      "name": "K & K",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 7,
+      "name": "Bar Mendes",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 8,
+      "name": "Cevada",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 9,
+      "name": "Tia Rose",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    },
+    {
+      "id": 10,
+      "name": "Bar do João",
+      "password": 54321,
+      "email": "barsolar@hotmail.com",
+      "photo": "https://avatars.githubusercontent.com/u/61130843?v=4"
+    }
+  ]
+}
